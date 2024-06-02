@@ -1,0 +1,8 @@
+[package]
+name = "wit-playground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasmtime = "20"
+wasmtime-wasi = "20"

@@ -1,0 +1,8 @@
+package example:host;
+
+world model-world {
+  import print: func(msg: string);
+
+  export init-model: func();
+  export run: func();
+}
